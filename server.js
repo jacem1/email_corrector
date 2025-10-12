@@ -24,4 +24,3 @@ app.listen(port, () => {
     console.log(`Server is running on port ${port}`);
 });
 
-console.log('API_KEY is set:', !!process.env.API_KEY);
